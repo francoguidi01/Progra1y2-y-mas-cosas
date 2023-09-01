@@ -1,0 +1,104 @@
+[
+  {
+    "active": true,
+    "id": 0,
+    "age": 8,
+    "eyeColor": "blue",
+    "nombre": "Velazquez Figueroa",
+    "genero": "male",
+    "registered": "2017-03-15T09:41:11 +03:00",
+    "latitude": 15.394018,
+    "longitude": 148.096736,
+    "tags": [
+      "labore",
+      "ipsum",
+      "minim",
+      "minim",
+      "cillum",
+      "magna",
+      "non"
+    ],
+    "book": [
+      {
+        "ISBN": 0,
+        "author": "Clark Floyd"
+      },
+      {
+        "ISBN": 1,
+        "author": "Nanette Lucas"
+      },
+      {
+        "ISBN": 2,
+        "author": "Merritt Cummings"
+      }
+    ]
+  },
+  {
+    "active": true,
+    "id": 1,
+    "age": 27,
+    "eyeColor": "green",
+    "nombre": "Robyn Mccarty",
+    "genero": "female",
+    "registered": "2015-09-07T02:54:45 +03:00",
+    "latitude": -37.775741,
+    "longitude": -19.006525,
+    "tags": [
+      "pariatur",
+      "esse",
+      "nisi",
+      "veniam",
+      "elit",
+      "eu",
+      "consequat"
+    ],
+    "book": [
+      {
+        "ISBN": 0,
+        "author": "Gilliam Armstrong"
+      },
+      {
+        "ISBN": 1,
+        "author": "Ashley Merrill"
+      },
+      {
+        "ISBN": 2,
+        "author": "Price Hoover"
+      }
+    ]
+  },
+  {
+    "active": true,
+    "id": 2,
+    "age": 21,
+    "eyeColor": "brown",
+    "nombre": "Horton Koch",
+    "genero": "male",
+    "registered": "2014-06-08T05:18:26 +03:00",
+    "latitude": -26.499008,
+    "longitude": 172.701718,
+    "tags": [
+      "cillum",
+      "minim",
+      "qui",
+      "eiusmod",
+      "ipsum",
+      "labore",
+      "ullamco"
+    ],
+    "book": [
+      {
+        "ISBN": 0,
+        "author": "Calderon Jensen"
+      },
+      {
+        "ISBN": 1,
+        "author": "Hewitt Swanson"
+      },
+      {
+        "ISBN": 2,
+        "author": "Rosetta Noble"
+      }
+    ]
+  }
+]

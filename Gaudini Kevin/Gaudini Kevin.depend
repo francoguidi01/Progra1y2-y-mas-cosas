@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\kev\documents\programacion\gaudini kevin\pila.c
+	"pila.h"
+
+1490112217 c:\users\kev\documents\programacion\gaudini kevin\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651877730 source:c:\users\kev\documents\programacion\gaudini kevin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"pila.h"
+
+1651877730 source:c:\users\franco\onedrive\escritorio\gaudini kevin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"pila.h"
+
+1490112217 c:\users\franco\onedrive\escritorio\gaudini kevin\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\franco\onedrive\escritorio\gaudini kevin\pila.c
+	"pila.h"
+

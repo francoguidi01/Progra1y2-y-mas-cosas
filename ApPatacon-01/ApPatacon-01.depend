@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654299404 source:d:\documentos\u.t.n\2 - programacion y laboratorio\tp final - appatacon\appatacon-01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+

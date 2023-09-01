@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1495154898 source:c:\users\techmdq\documents\pruebas\quetecla\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1495631522 source:c:\users\techmdq\downloads\pruebas\quetecla\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1654548027 source:c:\users\franco\onedrive\escritorio\codeblocks\quetecla\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

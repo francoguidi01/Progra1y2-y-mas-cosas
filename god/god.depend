@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647555059 source:c:\users\franco\onedrive\escritorio\codeblocks\god\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666630345 source:c:\users\franco\onedrive\escritorio\codeblocks\god\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

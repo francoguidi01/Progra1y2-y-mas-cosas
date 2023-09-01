@@ -1,0 +1,14 @@
+paso 1 crear repo
+paso 2 clonar via http
+paso 3 meter en la nueva carpeta el codigo 
+paso 4 ir hasta la carpeta desde la consola y ejecutar estos 3 comandos
+      4.a git add .
+      4.b git commit -m "comentario"
+      4.c git push
+si en el paso 4 c nos pide login:
+
+paso 5 en git ir a settings -> developer settings -> personal access token(classic) ->token (classic) -> generate new token classic-> una vez que lo creamos le ponemos cualquier nombre -> seleccionamos repo -> generate token
+paso 6 copiar el string
+paso 7 pegarlo en la consola o en la ui que nos lo pidio
+
+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

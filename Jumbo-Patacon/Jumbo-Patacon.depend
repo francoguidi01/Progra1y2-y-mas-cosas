@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1667055939 source:c:\users\martin\desktop\jumbo-patacon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"ADL.h"
+	"listaProductos.h"
+	"productos.h"
+
+1667054978 c:\users\martin\desktop\jumbo-patacon\menu.h
+	"ADL.h"
+
+1667056263 c:\users\martin\desktop\jumbo-patacon\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"listaProductos.h"
+
+1667058431 c:\users\martin\desktop\jumbo-patacon\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+	"nodoArbol.h"
+
+1667057349 c:\users\martin\desktop\jumbo-patacon\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1667058835 c:\users\martin\desktop\jumbo-patacon\nodoarbol.h
+	"productos.h"
+	"listaProductos.h"
+
+1667058604 source:c:\users\martin\desktop\jumbo-patacon\listaproductos.c
+	"listaProductos.h"
+
+1667059921 source:c:\users\julian\desktop\jumbounificado\jumbo-patacon\listaproducto.c
+	"listaProducto.h"
+	"productos.h"
+
+1667059903 c:\users\julian\desktop\jumbounificado\jumbo-patacon\listaproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1667059966 c:\users\julian\desktop\jumbounificado\jumbo-patacon\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1667059432 source:c:\users\julian\desktop\jumbounificado\jumbo-patacon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"ADL.h"
+	"listaProducto.h"
+	"productos.h"
+	"nodoArbol.h"
+
+1667059116 c:\users\julian\desktop\jumbounificado\jumbo-patacon\menu.h
+	"ADL.h"
+
+1667059394 c:\users\julian\desktop\jumbounificado\jumbo-patacon\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"listaProducto.h"
+
+1667059529 c:\users\julian\desktop\jumbounificado\jumbo-patacon\nodoarbol.h
+	"listaProducto.h"
+
+1667059921 source:c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\listaproducto.c
+	"listaProducto.h"
+	"productos.h"
+
+1667060227 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\listaproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1667060326 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1667062061 source:c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"productos.h"
+	"nodoArbol.h"
+
+1667062061 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\menu.h
+	"clientes.h"
+
+1667061433 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1667060392 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\nodoarbol.h
+	"productos.h"
+
+1667061807 source:c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\listapedidos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"listaPedidos.h"
+
+1667061081 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\listapedidos.h
+	"productos.h"
+
+1667061433 c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1667062191 source:c:\users\julian\desktop\jumbounificado pedorro\jumbo-patacon\clientes.c
+	"clientes.h"
+

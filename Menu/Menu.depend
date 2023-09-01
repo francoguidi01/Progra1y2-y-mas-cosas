@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653841985 source:c:\users\kevin\desktop\cosas\.exe\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1655307535 source:c:\users\franco\onedrive\escritorio\codeblocks\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+

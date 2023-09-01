@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1655836572 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655772357 source:c:\users\diego\desktop\appatacon_nuevo (2)\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490112217 source:c:\users\diego\desktop\appatacon_nuevo (2)\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\diego\desktop\appatacon_nuevo (2)\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\diego\desktop\appatacon_nuevo (4)\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\diego\desktop\appatacon_nuevo (4)\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655866826 source:c:\users\diego\desktop\appatacon_nuevo (4)\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1655922710 source:c:\users\kevin\desktop\appatacon_nuevo (4)\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490112217 source:c:\users\kevin\desktop\appatacon_nuevo (4)\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\appatacon_nuevo (4)\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655941740 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo corregido\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo corregido\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\appatacon nuevo corregido\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655941740 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo final\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\appatacon nuevo final\appatacon nuevo\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\appatacon nuevo final\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655927340 source:c:\users\franco\downloads\appatacon nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1490097816 source:c:\users\franco\downloads\appatacon nuevo\pila.c
+	"pila.h"
+
+1490097816 c:\users\franco\downloads\appatacon nuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+

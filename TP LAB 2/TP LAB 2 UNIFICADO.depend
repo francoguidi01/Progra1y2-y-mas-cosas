@@ -1,0 +1,346 @@
+# depslib dependency file v1.0
+1667067185 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\menu.c
+	"menu.h"
+
+1667066584 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667066292 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+
+1667066461 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667067158 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\clientes.c
+	"clientes.h"
+
+1667067138 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+	"productos.h"
+
+1667066358 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+
+1667067150 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\listapedidos.c
+	"listaPedidos.h"
+
+1667067190 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado\productos.c
+	"productos.h"
+
+1667067158 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\clientes.c
+	"clientes.h"
+
+1667066292 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+
+1667066461 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667067150 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\listapedidos.c
+	"listaPedidos.h"
+
+1667066358 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+
+1667067859 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+	"productos.h"
+	"arbol.h"
+
+1667066584 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667067185 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\menu.c
+	"menu.h"
+
+1667067765 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\productos.c
+	"productos.h"
+
+1667067931 c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667067765 source:c:\users\franco\onedrive\escritorio\codeblocks\tp lab 2 unificado funciona!!!\arbol.c
+	"arbol.h"
+
+1667315998 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\arbol.c
+	"arbol.h"
+
+1667315919 c:\users\julian\desktop\tp lab 2 unificado funciona!!!\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667317016 c:\users\julian\desktop\tp lab 2 unificado funciona!!!\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667315955 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\clientes.c
+	"clientes.h"
+
+1667315874 c:\users\julian\desktop\tp lab 2 unificado funciona!!!\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1667317136 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\listapedidos.c
+	"listaPedidos.h"
+
+1667316968 c:\users\julian\desktop\tp lab 2 unificado funciona!!!\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1667316840 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+	"productos.h"
+	"arbol.h"
+
+1667313672 c:\users\julian\desktop\tp lab 2 unificado funciona!!!\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667313672 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\menu.c
+	"menu.h"
+
+1667317016 source:c:\users\julian\desktop\tp lab 2 unificado funciona!!!\productos.c
+	"productos.h"
+
+1667518452 source:d:\tp lab 2\clientes.c
+	"clientes.h"
+
+1667512217 d:\tp lab 2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1667522378 d:\tp lab 2\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1667519494 d:\tp lab 2\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667432521 d:\tp lab 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667520085 source:d:\tp lab 2\menu.c
+	"menu.h"
+
+1667520072 d:\tp lab 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667520525 source:d:\tp lab 2\arbol.c
+	"arbol.h"
+
+1667522347 source:d:\tp lab 2\listapedidos.c
+	"listaPedidos.h"
+
+1667522611 source:d:\tp lab 2\productos.c
+	"productos.h"
+
+1667522347 source:d:\tp lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+	"productos.h"
+	"arbol.h"
+
+1667506124 source:c:\users\franco\onedrive\escritorio\tp lab 2\arbol.c
+	"arbol.h"
+
+1667418120 c:\users\franco\onedrive\escritorio\tp lab 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667505094 c:\users\franco\onedrive\escritorio\tp lab 2\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667575012 source:c:\users\franco\onedrive\escritorio\tp lab 2\clientes.c
+	"clientes.h"
+
+1667575822 c:\users\franco\onedrive\escritorio\tp lab 2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1667582126 c:\users\franco\onedrive\escritorio\tp lab 2\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1667576013 source:c:\users\franco\onedrive\escritorio\tp lab 2\menu.c
+	"menu.h"
+
+1667505672 c:\users\franco\onedrive\escritorio\tp lab 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667575232 source:c:\users\franco\onedrive\escritorio\tp lab 2\productos.c
+	"productos.h"
+
+1667582496 source:c:\users\franco\onedrive\escritorio\tp lab 2\listapedidos.c
+	"listaPedidos.h"
+
+1667583741 source:c:\users\franco\onedrive\escritorio\tp lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+	"productos.h"
+	"arbol.h"
+

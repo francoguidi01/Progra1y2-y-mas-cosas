@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1664218070 source:d:\frf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1664398286 source:c:\users\kevin\desktop\cosas\.exe\frf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1664492134 source:c:\users\franco\downloads\frf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

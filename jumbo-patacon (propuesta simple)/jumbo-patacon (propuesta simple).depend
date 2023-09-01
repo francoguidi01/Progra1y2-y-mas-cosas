@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1667946937 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\arbol.c
+	"arbol.h"
+
+1667943956 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667946689 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667947028 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\productos.c
+	"productos.h"
+
+1667946739 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\clientes.c
+	"clientes.h"
+
+1667944862 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1667944862 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1667946491 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\listapedidos.c
+	"listaPedidos.h"
+
+1667946508 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\menu.c
+
+1667944202 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667947188 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+

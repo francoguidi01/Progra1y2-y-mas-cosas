@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\franco\onedrive\escritorio\codeblocks\boludeces\pila.c
+	"pila.h"
+
+1490112217 c:\users\franco\onedrive\escritorio\codeblocks\boludeces\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1666895546 source:c:\users\franco\onedrive\escritorio\codeblocks\boludeces\boludeces.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<time.h>
+	<conio.h>
+	<string.h>
+	<wchar.h>
+	<locale.h>
+	<pthread.h>
+	<windows.h>
+

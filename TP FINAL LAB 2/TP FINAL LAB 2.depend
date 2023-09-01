@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1666956788 source:d:\tp final lab 2\productos.c
+	"productos.h"
+
+1666956788 d:\tp final lab 2\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1666956786 source:d:\tp final lab 2\adl.c
+	"ADL.h"
+
+1666956786 d:\tp final lab 2\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"nodo.h"
+	"clientes.h"
+
+1666956788 d:\tp final lab 2\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1666364032 source:d:\tp final lab 2\arboles2.c
+	"arboles.h"
+
+1666956786 d:\tp final lab 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1666956788 source:d:\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+	"ADL.h"
+	"nodo.h"
+	"arboles.h"
+	"clientes.h"
+
+1666956788 source:d:\tp final lab 2\nodo.c
+	"nodo.h"
+
+1666956786 d:\tp final lab 2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1666956786 source:d:\tp final lab 2\clientes.c
+	"clientes.h"
+
+1666970213 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\adl.c
+	"ADL.h"
+
+1666817326 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\arboles2.c
+	"arboles.h"
+
+1666817328 c:\users\kevin\desktop\cosas\.exe\tp final lab 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1666817330 c:\users\kevin\desktop\cosas\.exe\tp final lab 2\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+
+1666817328 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\clientes.c
+	"clientes.h"
+
+1666970573 c:\users\kevin\desktop\cosas\.exe\tp final lab 2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"ADL.h"
+
+1666817328 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\nodo.c
+	"nodo.h"
+
+1666817330 c:\users\kevin\desktop\cosas\.exe\tp final lab 2\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+
+1666817330 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\productos.c
+	"productos.h"
+
+1666970188 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"productos.h"
+	"ADL.h"
+	"nodo.h"
+	"arboles.h"
+	"clientes.h"
+
+1666817326 c:\users\kevin\desktop\cosas\.exe\tp final lab 2\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"nodo.h"
+	"clientes.h"
+
+1666298022 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\adl.c
+
+1666295564 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\arboles2.c
+	"arboles.h"
+
+1666291216 c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666296698 c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666296672 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\clientes.c
+	"clientes.h"
+
+1666298012 c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666291774 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\nodo.c
+	"nodo.h"
+
+1666291708 c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666291434 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\productos.c
+	"productos.h"
+
+1666380521 source:c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+	"ADL.h"
+	"nodo.h"
+	"arboles.h"
+	"clientes.h"
+
+1666296698 c:\users\kevin\desktop\cosas\.exe\tp final lab 2 kevin\adl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"clientes.h"
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\kev\documents\programacion\funciones pilas ordenada\pila.c
+	"pila.h"
+
+1490112217 c:\users\kev\documents\programacion\funciones pilas ordenada\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650600570 source:c:\users\kev\documents\programacion\funciones pilas ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"pila.h"
+
+1650662753 source:c:\users\franco\onedrive\escritorio\plas kevin el bueno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"pila.h"
+
+1490112217 c:\users\franco\onedrive\escritorio\plas kevin el bueno\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\franco\onedrive\escritorio\plas kevin el bueno\pila.c
+	"pila.h"
+
+1490112217 source:c:\users\franco\onedrive\escritorio\codeblocks\plas kevin el bueno\pila.c
+	"pila.h"
+
+1490112217 c:\users\franco\onedrive\escritorio\codeblocks\plas kevin el bueno\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651518316 source:c:\users\franco\onedrive\escritorio\codeblocks\plas kevin el bueno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"pila.h"
+

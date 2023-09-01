@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653329533 source:c:\users\franco\onedrive\escritorio\codeblocks\guidifranco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<time.h>
+	<conio.h>
+
+1490112217 c:\users\franco\onedrive\escritorio\codeblocks\guidifranco\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\franco\onedrive\escritorio\codeblocks\guidifranco\pila.c
+	"pila.h"
+

@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1663972247 source:c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\baseparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665620520 source:c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+	"Pila.h"
+
+1665535715 c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\stjugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1665535715 source:c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\stjugador.c
+	"stJugador.h"
+
+1665534286 source:c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\pila.c
+	"Pila.h"
+
+1665534272 c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665535612 c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\listajugadores.h
+	"stJugador.h"
+
+1665620520 source:c:\users\gsonv\documents\01 - catedras\03 - programacion 2 - laboratorio 2\2022 - segundo cuatrimestre\01 - p1\00 - baseparcial\listajugadores.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665620520 source:c:\users\franco\onedrive\escritorio\00 - baseparcial\listajugadores.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665535612 c:\users\franco\onedrive\escritorio\00 - baseparcial\listajugadores.h
+	"stJugador.h"
+
+1665535715 c:\users\franco\onedrive\escritorio\00 - baseparcial\stjugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1665620520 source:c:\users\franco\onedrive\escritorio\00 - baseparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+	"Pila.h"
+
+1665534272 c:\users\franco\onedrive\escritorio\00 - baseparcial\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665534286 source:c:\users\franco\onedrive\escritorio\00 - baseparcial\pila.c
+	"Pila.h"
+
+1665535715 source:c:\users\franco\onedrive\escritorio\00 - baseparcial\stjugador.c
+	"stJugador.h"
+
+1665620520 source:c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\listajugadores.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665535612 c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\listajugadores.h
+	"stJugador.h"
+
+1665535715 c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\stjugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1665620520 source:c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+	"Pila.h"
+
+1665534272 c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"listaJugadores.h"
+
+1665534286 source:c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\pila.c
+	"Pila.h"
+
+1665535715 source:c:\users\franco\onedrive\escritorio\codeblocks\00 - baseparcial\stjugador.c
+	"stJugador.h"
+

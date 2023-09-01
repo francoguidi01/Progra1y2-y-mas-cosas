@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1656001723 source:c:\users\julian\downloads\2jumb-oproject\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656008909 source:c:\users\martin\desktop\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656027974 source:c:\users\capec\onedrive\escritorio\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1666471718 source:c:\users\martin\desktop\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.h"
+	"pedidos.c"
+
+1656371572 source:c:\users\martin\desktop\facultad\programacion 1\tp final\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656371572 source:c:\users\julian\desktop\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1666310330 source:c:\users\martin\desktop\mis documentos 2\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.c"
+
+1666312116 c:\users\martin\desktop\mis documentos 2\jumb-o v.1\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.h"
+
+1666312156 c:\users\martin\desktop\mis documentos 2\jumb-o v.1\productos.h
+
+1666312303 source:c:\users\martin\desktop\mis documentos 2\jumb-o v.1\listaproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.h"
+	"listaProductos.h"
+
+1666311986 c:\users\martin\desktop\mis documentos 2\jumb-o v.1\listaproductos.h
+	"productos.h"
+
+1666471406 source:c:\users\martin\desktop\jumb-o v.1\listaproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.c"
+	"listaProductos.h"
+	"arbolProductos.c"
+
+1666469167 c:\users\martin\desktop\jumb-o v.1\productos.h
+
+1666469246 c:\users\martin\desktop\jumb-o v.1\listaproductos.h
+	"productos.h"
+	"arbolProductos.h"
+
+1666378306 c:\users\martin\desktop\jumb-o v.1\arbolproductos.h
+
+1666297902 c:\users\martin\desktop\jumb-o v.1\listaproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.h"
+	"listaProductos.h"
+
+1666471412 c:\users\martin\desktop\jumb-o v.1\arbolproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"arbolProductos.h"
+	"productos.h"
+
+1666469246 c:\users\martin\desktop\jumb-o v.1\pedidos.h
+	"listaProductos.h"
+
+1666471776 c:\users\martin\desktop\jumb-o v.1\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"productos.h"
+	"listaProductos.h"
+	"arbolProductos.h"
+
+1666469427 c:\users\martin\desktop\jumb-o v.1\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"pedidos.h"
+
